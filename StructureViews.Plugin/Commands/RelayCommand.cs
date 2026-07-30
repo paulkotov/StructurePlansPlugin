@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Input;
 
-namespace StructureViews.Plugin
+namespace StructureViewsPlugin
 {
     public class RelayCommand : ICommand
     {
